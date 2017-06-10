@@ -1,0 +1,26 @@
+{
+  "name": "restful-starter",
+  "version": "1.0.0",
+  "description": "node restful starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertzzy/node-restful-starter.git"
+  },
+  "keywords": [
+    "node",
+    "restful"
+  ],
+  "author": "albert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertzzy/node-restful-starter/issues"
+  },
+  "homepage": "https://github.com/albertzzy/node-restful-starter#readme",
+  "dependencies": {
+    "koa": "^2.2.0"
+  }
+}
